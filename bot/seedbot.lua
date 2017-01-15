@@ -231,7 +231,6 @@ function create_config( )
     "Plugins",
     "AboutMe",
     "InSuper",
-    "InSudo",
     "ToSupport",
     "Welcome",
     "SetWelcome",
@@ -253,7 +252,6 @@ function create_config( )
     "Logo",
     "MyNumber",
     "PKGinastaller",
-    "BlackPlus",
     "ToVoice",
     "AntiArabic",
     "Del_Pro",
@@ -274,7 +272,6 @@ function create_config( )
     "Gps",
     "ToSticker(Text_to_stick)",
     "Block",
-    "InGroups",
     "supergroup",
     "whitelist",
     "msg_checks"
